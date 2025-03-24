@@ -1,1 +1,1 @@
-This repository contains code to generate Portfolio usinf react.
+Hi Guys, this repository contains code to generate Portfolio using react.
