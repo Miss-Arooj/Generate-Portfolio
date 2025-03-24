@@ -1,0 +1,24 @@
+/* Projects.css */
+.projects {
+    padding: 4rem 2rem;
+    background-color: #f9f9f9;
+    text-align: center;
+  }
+  
+  .projects h2 {
+    font-size: 2.5rem;
+    color: #333;
+    margin-bottom: 2rem;
+  }
+  
+  .project-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    align-items: center;
+  }
+  
+  .highlight {
+    color: #6a11cb; /* Highlight color */
+    transition: color 0.3s ease;
+  }

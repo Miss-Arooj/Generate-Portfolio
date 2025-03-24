@@ -1,0 +1,39 @@
+/* Add your custom styles here */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+  }
+  
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    background-color: #333;
+    color: white;
+  }
+  
+  .hamburger {
+    display: none;
+  }
+  
+  .hero {
+    text-align: center;
+    padding: 2rem;
+    background-color: #007bff;
+    color: white;
+  }
+  
+  .about,
+  .projects,
+  .contact {
+    padding: 2rem;
+  }
+  
+  .footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #333;
+    color: white;
+  }

@@ -1,0 +1,23 @@
+[
+    {
+      "id": "1",
+      "title": "Fake News Detection",
+      "description": "A machine learning project to detect fake news.",
+      "image": "https://via.placeholder.com/300",
+      "githubLink": "https://github.com/nishitpatel01/Fake_News_Detection"
+    },
+    {
+      "id": "2",
+      "title": "House Price Prediction",
+      "description": "A project to predict house prices using machine learning.",
+      "image": "https://via.placeholder.com/300",
+      "githubLink": "https://github.com/Shreyas3108/house-price-prediction"
+    },
+    {
+      "id": "3",
+      "title": "Java Snake Game",
+      "description": "A classic snake game implemented in Java.",
+      "image": "https://via.placeholder.com/300",
+      "githubLink": "https://github.com/janbodnar/Java-Snake-Game"
+    }
+  ]
